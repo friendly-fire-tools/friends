@@ -1,5 +1,6 @@
 {
   "targets": [
+    "https://www.1tv.ru/",
     "https://ria.ru",
     "https://lenta.ru/",
     "https://tass.ru/",
@@ -8,9 +9,7 @@
     "https://kommersant.ru",
     "https://yandex.by/",
     "https://riafan.ru",
-    "http://kremlin.ru/",
     "https://nic.ru",
-    "https://tvzvezda.ru/",
     "https://ya.ru/",
     "https://www.1c-bitrix.ru/",
     "https://sputnik.by/",
@@ -36,10 +35,10 @@
     "https://logistics.ru",
     "https://www.uralkali.com/ru/",
     "https://gosuslugi41.ru",
-    "https://cashbank.pro/",
     "https://uc-osnovanie.ru/",
     "https://good-tender.ru",
     "https://www.mtk-azs.com/",
+    "http://rk72.ru",
     "https://azs.tatneft.ru/",
     "https://online.sberbank.ru/",
     "https://www.b2b-center.ru",
@@ -54,11 +53,11 @@
     "odnoklassniki.ru",
     "proxy6.net",
     "sber-am.ru",
-    "monopoly.ru",
     "connect.ok.ru",
     "region-am.ru",
     "sberfn.ru",
     "region.ru",
+    "ul.su",
     "api.ok.ru"
   ]
 }
