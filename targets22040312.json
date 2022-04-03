@@ -1,16 +1,13 @@
 {
   "targets": [
     "https://aptekamos.ru/",
-    "https://uteka.ru/",
     "https://gls.store",
     "https://www.eapteka.ru",
     "https://vitaminonline.ru",
     "https://zdesapteka.ru",
     "https://lek-info.ru/",
-    "https://wer.ru/",
     "https://msk.vapteke.ru",
     "https://www.proapteka.ru/",
-    "https://lekmos.ru",
     "https://doctorpiter.ru",
     "https://www.krasotaimedicina.ru",
     "https://www.baby.ru",
@@ -24,6 +21,8 @@
     "https://www.krasotaimedicina.ru/search/?s=&q=мин",
     "https://doctorpiter.ru/tags/serdce/",
     "https://doctorpiter.ru/tags/pravilnoe-pitanie/",
-    "https://doctorpiter.ru/tags/allergiya/"
+    "https://doctorpiter.ru/tags/allergiya/",
+    "https://edu.rosminzdrav.ru/info/search/?searchid=2270724&text=%D0%BE%D1%80%D0%BE&web=0",
+    "https://edu.rosminzdrav.ru/info/search/?searchid=2270724&text=%D0%B8%D0%BB%D0%B8&web=0"
   ]
 }
