@@ -1,14 +1,29 @@
 {
   "targets": [
     "https://aptekamos.ru/",
-    "https://lek-info.ru/",
     "https://msk.vapteke.ru",
-    "https://www.baby.ru",
-    "https://www.lsgeotar.ru",
-    "https://edu.rosminzdrav.ru",
-    "https://www.baby.ru/names/letter/1/?query=%D0%B0",
-    "https://www.baby.ru/answers/?page=56&search=%D0%BC%D0%B0%D0%BC",
-    "https://www.baby.ru/community/431988111/users/?page=402",
-    "https://www.baby.ru/nashezdorovie/library/?q=%D0%BD%D0%BE%D1%81"
+    "https://msk.vapteke.ru/articles",
+    "https://msk.vapteke.ru/articles/91",
+    "https://msk.vapteke.ru/articles/83",
+    "https://msk.vapteke.ru/articles/72",
+    "https://msk.vapteke.ru/articles/71",
+    "https://msk.vapteke.ru/articles/70",
+    "https://msk.vapteke.ru/articles/64",
+    "https://msk.vapteke.ru/articles/50",
+    "https://msk.vapteke.ru/articles/43",
+    "https://msk.vapteke.ru/articles/19",
+    "https://msk.vapteke.ru/articles/49",
+    "https://msk.vapteke.ru/search?GroupID=94",
+    "https://msk.vapteke.ru/search?GroupID=7",
+    "https://msk.vapteke.ru/search?GroupID=70",
+    "https://msk.vapteke.ru/search?GroupID=64",
+    "https://msk.vapteke.ru/search?GroupID=52",
+    "https://msk.vapteke.ru/search?GroupID=86",
+    "https://msk.vapteke.ru/search?GroupID=104",
+    "https://msk.vapteke.ru/search?GroupID=110",
+    "https://msk.vapteke.ru/search?GroupID=112",
+    "https://msk.vapteke.ru/list",
+    "https://msk.vapteke.ru/pages/pre-order",
+    "https://msk.vapteke.ru/pages/help"
   ]
 }
