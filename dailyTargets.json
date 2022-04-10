@@ -1,6 +1,5 @@
 {
   "targets": [
-    "https://euromed.ru",
     "https://evromed42.ru",
     "https://lcenter.ru",
     "https://mc21.ru",
@@ -8,6 +7,13 @@
     "https://prioritet03.ru",
     "https://newhospital.ru/cabinet/",
     "https://prioritet03.ru/poisk",
-    "https://mc21.ru/?query=%D1%82%D0%B5%D1%81"
+    "https://mc21.ru/?query=%D1%82%D0%B5%D1%81",
+    "https://03-help.ru",
+    "https://ugmk-clinic.ru",
+    "https://emcmos.ru",
+    "https://lcenter.ru/direction/onkologiya-mammologiya/",
+    "https://lcenter.ru/direction/ginekologiya/",
+    "https://prioritet03.ru/theme/prioritet03/images/logo4.jpg",
+    "https://prioritet03.ru/images/banner/1607092265.jpg"
   ]
 }
