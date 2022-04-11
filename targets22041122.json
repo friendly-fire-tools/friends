@@ -1,7 +1,6 @@
 {
   "targets": [
     "https://evromed42.ru",
-    "https://lcenter.ru",
     "https://mc21.ru",
     "https://mc21.ru/vb4",
     "https://mc21.ru/vbadjuntos",
@@ -12,12 +11,9 @@
     "https://mc21.ru/vb",
     "https://mc21.ru/vault",
     "http://24supermarket.ru/",
-    "https://av.ru/",
     "https://bringston.ru/",
-    "https://chibbis.ru/",
     "https://www.delikateska.ru/",
     "https://www.delivery-club.ru/",
-    "https://delivery.metro-cc.ru/",
     "https://dostavka-produktov.ru/",
     "https://goldniva.ru/",
     "https://gs.market/",
@@ -29,7 +25,6 @@
     "https://myspar.ru/",
     "https://okodo.ru/",
     "https://samokat.ru/",
-    "https://sbermarket.ru/",
     "https://spardostavka.ru/"
   ]
 }
