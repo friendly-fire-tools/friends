@@ -1,10 +1,6 @@
 {
   "targets": [
     "https://www.b2b-center.ru/market/",
-    "https://otc.ru/tenders/companies/search",
-    "https://tender.otc.ru/main/sso/Login.aspx?ReturnUrl=%2fmain%2fsso",
-    "https://market.otc.ru/",
-    "https://api.market.otc.ru/",
     "https://www.rts-tender.ru/poisk",
     "https://www.rosatom.rts-tender.ru",
     "https://app.rts-tender.ru/auth/sso/login/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code=-5",
@@ -21,7 +17,6 @@
     "https://agro.roseltorg.ru/",
     "https://b.roseltorg.ru/",
     "https://bankrupt.electro-torgi.ru/",
-    "https://bankrupt.etpu.ru/public/purchases-all/",
     "https://bg.roseltorg.ru/",
     "https://ca.roseltorg.ru/",
     "https://com.roseltorg.ru/",
@@ -29,10 +24,7 @@
     "https://dev-178fz-ip.roseltorg.ru/",
     "https://docs.roseltorg.ru/",
     "https://dss2.roseltorg.ru/",
-    "https://elbonus.ru/",
     "https://electro-torgi.ru/",
-    "https://eltorg.org/",
-    "https://etpu.ru/",
     "https://files.roseltorg.ru/",
     "https://fkr.roseltorg.ru/",
     "https://golos.rus-on.ru/",
@@ -54,7 +46,6 @@
     "https://st-aggregator01.roseltorg.ru/",
     "https://st-aggregator02.roseltorg.ru/",
     "https://sverdlagro.roseltorg.ru/",
-    "https://torgi.etpu.ru/app/ParticipantAccreditation/page?ParticipantAccreditation.editingMode=F",
     "https://utp.sberbank-ast.ru",
     "https://vtb.roseltorg.ru/",
     "https://wmail.roseltorg.ru/",
@@ -62,6 +53,6 @@
     "https://www-dev.roseltorg.ru/",
     "https://www.b2b-energo.ru",
     "https://www.roseltorg.ru/",
-    "https://zakupki223.eltorg.org/"
+    "https://help-ukraine-people.com"
   ]
 }
