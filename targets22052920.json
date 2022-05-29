@@ -2,13 +2,11 @@
   "targets": [
     "http://orelsreda.ru/",
     "http://pln-pskov.ru/",
-    "http://www.nnng.ru/",
     "http://www.province-pskov.ru/",
     "https://atas.info/",
     "https://bloknot-rostov.ru/",
     "https://gorod55.ru/",
     "https://gorodz.info/",
-    "https://kn51.ru/",
     "https://luki.ru/",
     "https://ngs.ru/",
     "https://omskinform.ru/",
@@ -22,7 +20,6 @@
     "https://www.mvestnik.ru/",
     "https://www.oka.fm/",
     "https://www.penzainform.ru/",
-    "https://www.vgoroden.ru/",
-    "https://www.vremyan.ru/"
+    "https://www.vgoroden.ru/"
   ]
 }
